@@ -1,0 +1,3 @@
+add_library(my_component my_component.cpp)
+
+target_include_directories(my_component PUBLIC include)
